@@ -41,3 +41,13 @@ Run the code
 ```
 python hello.py
 ```
+## Start the program at startup
+1. Make a shortcut of the hello.py program in the same directory
+2. Press *Windows key + R*
+3. Paste the below line and press enter
+   ```
+   shell:startup
+   ```
+4. Copy the shortcut created to the newly opened window
+
+**Now the program will start at startup**
