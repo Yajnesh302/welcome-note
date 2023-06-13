@@ -55,4 +55,14 @@ python hello.py
 **Now the program will start at startup**
 
 ## Changes you can make
-1.You can change the font of your requirement  which you can download from the internet. There are two fonts required one for msaa
+1. You can change the font of your requirement  which you can download from the internet. There are two fonts required one for message and another for time and date. In this repo the font name are **font.otf** and **font1.otf**
+2. You can change the audio of your requirement. In this repo the audio file is **hello_yajnesh.mp3**.
+3. You can have your own video for the background. In this repo the video the file is not uploaded. Name the video file as **vid**.
+4. You can change the volume of the audio in the line:
+```
+sound.set_volume(0.1)
+```
+5. You can chnage the welocome text in the line:
+```
+pygame.display.set_caption("Hello Yajnesh")
+```
