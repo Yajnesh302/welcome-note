@@ -14,7 +14,9 @@ The window has a curved border drawn with a transparent surface, giving it an el
 This code can be used as a simple welcome screen or as a starting point for more advanced multimedia applications. It demonstrates the usage of Pygame, video processing with OpenCV, text rendering, and audio playback.
 
 Dependencies: Pygame, OpenCV (cv2)
-
+```
+**Note: Add a video to the directory and name it vid**
+```
 Usage:
 1. Install the required dependencies using pip:
    - pygame:
@@ -51,3 +53,6 @@ python hello.py
 4. Copy the shortcut created to the newly opened window
 
 **Now the program will start at startup**
+
+## Changes you can make
+1.You can change the font of your requirement  which you can download from the internet. There are two fonts required one for msaa
